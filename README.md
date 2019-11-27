@@ -4,7 +4,7 @@
 2. After 'DELAY_MSEC' milliseconds, set 'OUTPUT_PIN' to HIGH for 'TIMES' times and 'DURATION_MSEC' milliseconds.
 3. Sleep again.
 
-
+![example circuit](https://raw.githubusercontent.com/sgr/attiny13a_delay_switch/master/example_circuit.png)
 
 ## Prerequisites
 
